@@ -4,4 +4,5 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 .idea
-./Rider_git_sample1/Properties
+# Игнорируем директорию в любой директории проекта
+Properties/
