@@ -3,6 +3,19 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
-.idea
-# Игнорируем директорию в любой директории проекта
+
+# Rider
+.idea/
+
+# Setting prj
 Properties/
+
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
