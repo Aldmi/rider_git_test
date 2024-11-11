@@ -6,4 +6,5 @@ public class People
     public string Name { get; set; }
     public long Age { get; set; }
     public string Email { get; set; }
+    public string Address1 { get; set; }
 }
