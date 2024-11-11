@@ -7,4 +7,5 @@ public class People
     public long Age { get; init; }
     public string Email { get; init; }
     public string Address123 { get; init; }
+    public Guid ExternalId { get; init; }
 }
