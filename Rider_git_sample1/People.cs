@@ -8,4 +8,5 @@ public class People
     public string Email { get; init; }
     public string Address123 { get; init; }
     public Guid ExternalId { get; init; }
+    public int PostCode { get; init; }
 }
